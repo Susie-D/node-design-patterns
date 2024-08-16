@@ -1,8 +1,9 @@
-var scout = new Shopper('scout Bank');
+var Shopper = require('./Shopper');
+
+var scout = new Shopper();
 scout.addItemsToList('camping knife');
 scout.addItemsToList('tent');
 scout.addItemsToList('backpack');
 scout.addItemsToList('map');
-scout.addItemsToList('slingshot');
 
 module.exports = scout;

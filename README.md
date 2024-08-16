@@ -47,3 +47,12 @@ Callback chaos / Callback hell
                 }
             })
         })`
+
+## 13 Object-oriented Design Patterns
+- **Creational**: class instantiation
+
+    - **Singleton** Ensure that you have one and only one instance of an object. "Ensure a class only has one instance and provide a global point of access to it."* 
+
+    - **Prototype** A clone/copy of the main design, i.e. objects setup. "Specify the kinds of objects to create using prototypical instance, and create new objects by copying this prototype."* 
+        
+        **-Design Patterns: Elements of Reuseable Object-Oriented Software*
